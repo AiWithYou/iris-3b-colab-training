@@ -1,0 +1,15 @@
+Iris-3B Colab Training
+Copyright 2026 AiWithYou
+
+This repository provides training adapters and Colab workflows for Iris-3B.
+The Iris architecture, text encoder integration, flow loss and sampler are
+imported from the pinned upstream source and are not redistributed here.
+
+Iris-3B
+Copyright 2026 Speridlabs
+Upstream: https://github.com/speridlabs/iris-3b
+Revision: a8d15239dea469aba042cfa56ca3bb4e450d5ebc
+Apache License, Version 2.0
+The upstream NOTICE is retained in third_party/iris-NOTICE.
+
+Downloaded model weights and dependencies retain their respective licenses.

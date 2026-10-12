@@ -1,5 +1,7 @@
 # 新しいデータで全体FTを継続する
 
+**日本語** | [English](README_CONTINUATION_EN.md)
+
 [Colabで開く](https://colab.research.google.com/github/AiWithYou/iris-3b-colab-training/blob/main/Iris3B_FullFT_Continuation.ipynb)
 
 この公開版で作成した全体FTのチェックポイントから、新しい画像群へ学習を進めます。親runを停止し、親の保存ファイルは保持してください。途中再開でも最初に使った親チェックポイントのIDが必要です。

@@ -1,5 +1,7 @@
 # Iris-3B Colab Training
 
+**日本語** | [English](README_EN.md)
+
 Self-contained Colab notebooks for Iris-3B LoRA and full fine-tuning, with configurable datasets and resumable Google Drive checkpoints.
 
 [Iris-3B公式](https://github.com/speridlabs/iris-3b)を使ったColab向け学習コードです。モデル構造、Qwenテキストエンコーダー、Rectified Flow、サンプラーは公式実装を使い、このリポジトリではLoRA、単一GPUでの全体FT、データ抽出、保存・再開、継続学習を提供します。

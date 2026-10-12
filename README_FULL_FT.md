@@ -1,5 +1,7 @@
 # Iris-3B 全体FT
 
+**日本語** | [English](README_FULL_FT_EN.md)
+
 [Colabで開く](https://colab.research.google.com/github/AiWithYou/iris-3b-colab-training/blob/main/Iris3B_FullFT_A100.ipynb)
 
 Iris全パラメータをFP32で更新し、Qwenは凍結します。AdamW8bit、BF16 autocast、勾配チェックポイントを使い、EMAは保持しません。公式の分散学習と同一の学習レシピではありません。
